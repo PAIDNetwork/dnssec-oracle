@@ -67,6 +67,6 @@ to ensure all parties are accountable under a jurisdiction. In a simple legal ag
  
 # Additional Information
 
-    `Additional Information:` of [Sidetree Protocol Identity Foundation](https://identity.foundation/sidetree/spec/)
+- `Additional Information:` [Sidetree Protocol Identity Foundation](https://identity.foundation/sidetree/spec/)
 
 ### 
