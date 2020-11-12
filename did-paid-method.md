@@ -78,14 +78,16 @@ The figure below illustrates the three primary components of a Sidetree-based DI
 3. An integrated Content-Addressable Storage (CAS) network layer Sidetree nodes use to distribute and replicate DID operation files.
 
 # Imagen
-![Content Addressable Storage (CAS) Network `e.g. IPFS`](/draft-defined-did-paid-protocol/image/sidetree-system.svg) "Content Addressable Storage (CAS) Network `e.g. IPFS`"
+![Content Addressable Storage (CAS) Network `e.g. IPFS`](/draft-defined-did-paid-protocol/image/sidetree-system.svg) 
+"Content Addressable Storage (CAS) Network `e.g. IPFS`"
 
 ## 8. File Strcutures
 
 The protocol defines the following three file structures, which house DID operation data and are designed to support key functionality to enable light node configurations, minimize permanently retained data, and ensure performant resolution of DIDs.
 
 # Imagen
-![File Structuras](/draft-defined-did-paid-protocol/image/file-topology.svg) "File Structures `e.g. IPFS`"
+![File Structuras](/draft-defined-did-paid-protocol/image/file-topology.svg) 
+"File Structures `e.g. IPFS`"
 
 ## Important Search (DIF Sidetree Protocol)
 
